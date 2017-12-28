@@ -30,4 +30,4 @@ css
 flask
 tensorflow
 pandas
-scipy
+scipy*

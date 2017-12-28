@@ -21,8 +21,9 @@ We expanded our knowledge on creating visualizations and also learned about sign
 ## What's next for Sound of Money
 We would like to continue our analysis with this sound data, we're in the process of improving our convolutional network to a convolutional recurrent neural network which has been used for feature extraction.
 
-*Built With
-python
+### Built With
+
+*python
 p5.js
 d3.js
 html5
